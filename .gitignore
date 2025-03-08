@@ -1,0 +1,12 @@
+# configuración
+.env
+
+# caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# dependencias instaladas localmente
+venv/
+*.log
